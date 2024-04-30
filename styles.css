@@ -67,3 +67,38 @@
     justify-content: center;
     font: 20px/1em verdana;
 }
+
+
+.textoCircu {
+    display: grid;
+    grid-template-columns:  25% 24% 22% 25%;
+    text-align: center;
+}
+.cube2 {
+    height: 150px;
+  }
+  
+  .cube3{
+    display: flex;
+    gap: 10%;
+  }
+  .McGregor{
+    width: 45%;
+    margin-top: 9%;
+    margin-right: 2%;
+  }
+  .textoCo{
+    margin-left: 2%;
+  }
+  .borde2 {
+    width: 49%;
+    height: 1195px;
+    margin-top: 0%;
+    margin-left: 24.7%;
+    position: absolute;
+    border: solid 3px rgb(0, 0, 0);
+  }
+   .cube4{
+    display: flex;
+    gap: 10%;
+  }
