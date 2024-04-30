@@ -38,3 +38,32 @@
 .cube {
   height: 200px;
 }
+
+.circle {
+  fill: none;
+  stroke-width: 10;
+  transform: rotate(-90deg);
+  transform-origin: 50%;
+  stroke-dasharray: 100 100;
+  stroke: #aaa;
+}
+
+.circulos {
+  display: flex;
+  gap: 35px;
+  margin-left: 5%;
+}
+.porcentajes{
+   position: relative;
+}
+.porcentajes span{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 20px/1em verdana;
+}
