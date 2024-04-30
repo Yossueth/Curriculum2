@@ -1,0 +1,40 @@
+.texto1 {
+  text-align: center;
+  font-size: 50px;
+}
+.texto2 {
+  margin-left: 24%;
+  font-size: 18px;
+}
+.curriculum {
+  width: 50%;
+  margin-left: 20%;
+  border-radius: 12px;
+  background-color: rgb(219, 222, 247);
+  height: 1200px;
+  margin-left: 290px;
+}
+.texto3 {
+  margin-left: 6%;
+  margin-top: 7%;
+}
+.texto4 {
+  margin-left: 6%;
+}
+
+.headerGrid {
+  display: flex;
+}
+
+.borde {
+  width: 49%;
+  height: 190px;
+  margin-top: 0%;
+  margin-left: 24.7%;
+  position: absolute;
+  border: solid 3px rgb(0, 0, 0);
+}
+
+.cube {
+  height: 200px;
+}
