@@ -6,9 +6,15 @@
     <title>Curriculum2</title>
     <link rel="stylesheet" href="styles.css" />
     <style>
+      @keyframes rellenar {
+        to {
+          stroke-dasharray: var(--porcentaje) 100;
+        }
+      }
       circle:nth-child(2) {
         stroke: rgb(82, 82, 134);
-        stroke-dasharray: var(--porcentaje) 100;
+        stroke-dasharray: 0 100;
+        animation: rellenar 5s forwards;
       }
     </style>
   </head>
