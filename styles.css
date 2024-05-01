@@ -11,7 +11,7 @@
   margin-left: 20%;
   border-radius: 12px;
   background-color: rgb(219, 222, 247);
-  height: 1200px;
+  height: 1150px;
   margin-left: 290px;
 }
 .texto3 {
@@ -92,7 +92,7 @@
   }
   .borde2 {
     width: 49%;
-    height: 1195px;
+    height: 1143px;
     margin-top: 0%;
     margin-left: 24.7%;
     position: absolute;
@@ -101,4 +101,21 @@
    .cube4{
     display: flex;
     gap: 10%;
+  }
+
+   #raya {
+    border-left: 3px solid gray;
+    width: 80%;
+    margin-left: 15px;
+    padding-left: 20px;
+    height: 350px;
+  }
+  .hobby1{
+  display: flex;
+  gap: 40px;
+  }
+   .hobby2{
+  display: flex;
+  gap: 40px;
+  margin-top: 40px;
   }
