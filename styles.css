@@ -119,3 +119,12 @@
   gap: 40px;
   margin-top: 40px;
   }
+  .Btn{
+  margin-left: 85%;
+  position: relative;
+  }
+#contratar{
+position: absolute;
+right: 35%;
+  
+}
