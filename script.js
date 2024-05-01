@@ -1,7 +1,3 @@
-
-
-
 function contrato(id) {
-    alert("Contrataste a esta persona")
+  alert("Contrataste a esta persona");
 }
-
